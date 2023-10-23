@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web development with technologies such as Java and php in the back-end section and html, css and javaScript in the front-end section**
 
-- 📫 How to reach me **mhurtadojunior@gmail.com**
+- 📫 How to reach me **miguelhurtado.developer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
